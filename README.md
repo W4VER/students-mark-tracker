@@ -49,4 +49,4 @@ A beginner-friendly Java application that calculates a student's average marks a
 
 ## Author
 
-Computer Engineering student at Cape Peninsula University of Technology (CPUT).
+Linathi Ngada.
